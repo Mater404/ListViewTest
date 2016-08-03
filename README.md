@@ -1,2 +1,3 @@
-# ListViewTest
-ListView 定制带图片文字的界面
+# Android_gobang
+gobang single plane game
+![image](https://github.com/Mansdy/ListViewTest/blob/master/illustration/1.png)
